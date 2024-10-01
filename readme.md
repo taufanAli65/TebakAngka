@@ -1,0 +1,1 @@
+if u using windows, then there will be no problem in this code. However if ur using other operating system, kindly pls replace os.system('cls') with os.system('clear').

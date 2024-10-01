@@ -148,7 +148,7 @@ def play_again() :
 
 #game berakhir
 def game_ended() :
-    time.sleep(2)
+    # time.sleep(2)
     os.system('cls')
     print("="*65)
     print("Number Guess".center(65))
